@@ -1,0 +1,28 @@
+#myContainer {
+  width: 400px;
+  height: 400px;
+  background: #0A4872;
+}
+
+#drlg {
+
+  /* height: 75px;
+  width: 200px; */
+  margin: 100px;
+  width: 40%;
+}
+
+.button {
+margin-bottom: 20px;
+font-size: 25px;
+color: white;
+font-weight: 700;
+background-color: #f34700;
+border: 10px solid #f34700;
+border-radius: 100px;
+cursor: pointer;
+}
+
+#disclaimer {
+  color: lightgrey
+}
